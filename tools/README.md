@@ -1,8 +1,8 @@
 # NLP tools
 
 ## annotation tool
-大致可以选用Doccano，Brat，YEDDA试一下；  
-选用Brat是因为有现成的中文情感标注，还有Brat有关系标注，选用Doccano是它的页面很友好，而且可添加的标签数也比较多，选用YEDDA是它完全用Python桌面开发且支持中文
+-大致可以选用Doccano，Brat，YEDDA试一下；  
+-选用Brat是因为有现成的中文情感标注，还有Brat有关系标注，选用Doccano是它的页面很友好，而且可添加的标签数也比较多，选用YEDDA是它完全用Python桌面开发且支持中文
 
 1. [doccano](https://github.com/doccano/doccano)   
    这是一款非常好用的开源标注工具，界面友好，支持文本分类，序列标注和seq2seq等任务，推荐docker安装。
