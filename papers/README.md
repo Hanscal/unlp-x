@@ -78,6 +78,8 @@
 
 * Alec Radford, et al.: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), 2018.
 
+* Raffel, Colin, et al. : [Exploring the limits of transfer learning with a unified text-to-text transformer](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf)
+
 ## Segmentation, Tagging, Parsing
 
 * Donald Hindle and Mats Rooth. Structural Ambiguity and Lexical Relations, Computational Linguistics, 1993.
