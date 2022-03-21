@@ -34,3 +34,6 @@
 
 * [《Semantic search on text and knowledge bases》](https://scholar.archive.org/work/wptj7szlqvdmpbrwdbdm7h7fhu/access/wayback/http://www.nowpublishers.com:80/article/DownloadSummary/INR-032)
 
+7、 对话系统
+
+* [《Recent Advances in Deep Learning Based Dialogue Systems: A Systematic Survey》](https://arxiv.org/abs/2105.04387)
