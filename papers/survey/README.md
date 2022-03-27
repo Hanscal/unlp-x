@@ -1,4 +1,4 @@
-2020年NLP领域高质量的Survey
+NLP领域高质量的Survey
 
 
 1、命名实体识别
@@ -29,11 +29,16 @@
 
 * [《Knowledge Graphs》](https://arxiv.org/abs/2003.02320v2)
 
+* [Complex Knowledge Base Question Answering: A Survey](https://arxiv.org/abs/2108.06688)
 
-6、 知识库语义搜索
+6、图神经网络
+
+* [Graph Neural Networks for Natural Language Processing: A Survey](https://arxiv.org/abs/2106.06090)
+
+7、 知识库语义搜索
 
 * [《Semantic search on text and knowledge bases》](https://scholar.archive.org/work/wptj7szlqvdmpbrwdbdm7h7fhu/access/wayback/http://www.nowpublishers.com:80/article/DownloadSummary/INR-032)
 
-7、 对话系统
+8、 对话系统
 
 * [《Recent Advances in Deep Learning Based Dialogue Systems: A Systematic Survey》](https://arxiv.org/abs/2105.04387)
