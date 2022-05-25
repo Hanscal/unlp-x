@@ -1,5 +1,5 @@
 # 学习过有笔记的论文
-## 论文前面的模型简写有的是自己更加论文中内容添加的，请参考简称后面的论文全名
+## 论文前面的模型简写有的是自己根据论文中内容添加的，请参考简称后面的论文全名
 
 * [DIET: Lightweight Language Understanding for Dialogue Systems](https://arxiv.org/abs/2004.09936)  
 [论文笔记](https://zhuanlan.zhihu.com/p/483333155)
