@@ -106,6 +106,21 @@
 * [MIME: MIMicking Emotions for Empathetic Response Generation](https://arxiv.org/abs/2010.01454)  
 [论文笔记](https://zhuanlan.zhihu.com/p/514428904)
 
+* [ST-ToD: Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2108.12589)  
+[论文笔记](https://zhuanlan.zhihu.com/p/519899538)
+
+* [KAT-TSLF: A Three-Stage Learning Framework for Low-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/abs/2109.04096)  
+[论文笔记](https://zhuanlan.zhihu.com/p/520452078)
+
+* [GOLD: Improving Out-of-Scope Detection in Dialogues using Data Augmentation](https://arxiv.org/abs/2109.03079)  
+[论文笔记](https://zhuanlan.zhihu.com/p/520931750)
+
+* [(CG-nAR)Thinking Clearly, Talking Fast: Concept-Guided Non-Autoregressive Generation for Open-Domain Dialogue Systems](https://arxiv.org/abs/2109.04084)  
+[论文笔记](https://zhuanlan.zhihu.com/p/521409509)
+
+* [TransferQA: Zero-Shot Dialogue State Tracking via Cross-Task Transfer](https://arxiv.org/abs/2109.04655)  
+[论文笔记](https://zhuanlan.zhihu.com/p/521695173)
+
 ## 知识图谱相关
 
 * [How Does Knowledge Graph Embedding Extrapolate to Unseen Data: A Semantic Evidence View](https://arxiv.org/abs/2109.11800)  
