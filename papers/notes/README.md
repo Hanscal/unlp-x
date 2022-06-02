@@ -121,6 +121,18 @@
 * [TransferQA: Zero-Shot Dialogue State Tracking via Cross-Task Transfer](https://arxiv.org/abs/2109.04655)  
 [论文笔记](https://zhuanlan.zhihu.com/p/521695173)
 
+* [CCM: Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/Proceedings/2018/0643.pdf)  
+[论文笔记](https://zhuanlan.zhihu.com/p/522033809)
+
+* [ConDigSum：Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization](https://arxiv.org/abs/2109.04994)  
+[论文笔记](https://zhuanlan.zhihu.com/p/522572505)
+
+* [Exo-PCR：Exophoric Pronoun Resolution in Dialogues with Topic Regularization](https://arxiv.org/abs/2109.04787)  
+[论文笔记](https://zhuanlan.zhihu.com/p/523044371)
+
+* [SalesBot: Transitioning from Chit-Chat to Task-Oriented Dialogues](https://arxiv.org/pdf/2204.10591v1.pdf)  
+[论文笔记](https://zhuanlan.zhihu.com/p/523732757)
+
 ## 知识图谱相关
 
 * [How Does Knowledge Graph Embedding Extrapolate to Unseen Data: A Semantic Evidence View](https://arxiv.org/abs/2109.11800)  
